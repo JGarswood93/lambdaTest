@@ -1,0 +1,14 @@
+
+Y
+squid:S106"9Replace this use of System.out or System.err by a logger.(ù‘äüÿÿÿÿ8òÚó¢,
+Hsquid:S1481"'Remove this unused "sc" local variable.(ÿôÊ§ıÿÿÿÿ8µÿµ¢,
+Y
+squid:S106"9Replace this use of System.out or System.err by a logger.(Õ ÉÕûÿÿÿÿ8«åı¢,
+Y
+squid:S106"9Replace this use of System.out or System.err by a logger.(œæ Èùÿÿÿÿ8 “¦¢,
+Wsquid:S1854"6Remove this useless assignment to local variable "sc".(ÿôÊ§ıÿÿÿÿ8µÿµ¢,
+S
+squid:S106"9Replace this use of System.out or System.err by a logger.(©õœ78­â‹Ÿ¢,
+T
+squid:S106"9Replace this use of System.out or System.err by a logger.(“Ê§©8¡€±¢,
+[squid:HiddenFieldCheck"4Rename "b" which hides the field declared at line 5.(é¸•†8À×¹¢,
